@@ -99,13 +99,27 @@ The notebook includes visualizations and analysis of:
 ```
 movie_data_analysis.ipynb/
 │
-├── movie_data_analysis.ipynb.ipynb
+├── movie_data_analysis.ipynb
 ├── mymoviedb.csv
 ├── README.md
 ├── requirements.txt
 └── .gitignore
 ```
 
+---
+## 📷 Sample Visualizations
+
+### Genre Distribution
+
+![Genre Distribution](images/genre_distribution.png)
+
+### Popularity Distribution
+
+![Popularity Distribution](images/popularity_distribution.png)
+
+### Release Year Distribution
+
+![Release Year Distribution](images/release_year_distribution.png)
 ---
 
 ## 🚀 How to Run
