@@ -97,9 +97,9 @@ The notebook includes visualizations and analysis of:
 ## 📂 Project Structure
 
 ```
-Netflix-Movie-Data-Analysis/
+movie_data_analysis.ipynb/
 │
-├── Netflix Movie Data Analysis.ipynb
+├── movie_data_analysis.ipynb.ipynb
 ├── mymoviedb.csv
 ├── README.md
 ├── requirements.txt
@@ -113,13 +113,13 @@ Netflix-Movie-Data-Analysis/
 1. Clone this repository
 
 ```bash
-git clone https://github.com/mohammad-forhad-git/Netflix-Movie-Data-Analysis.git
+git clone https://github.com/mohammad-forhad-git/movie_data_analysis.ipynb.git
 ```
 
 2. Move into the project folder
 
 ```bash
-cd Netflix-Movie-Data-Analysis
+cd movie_data_analysis.ipynb
 ```
 
 3. Install the required libraries
@@ -134,7 +134,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-5. Open **Netflix Movie Data Analysis.ipynb** and run all cells.
+5. Open **movie_data_analysis.ipynb** and run all cells.
 
 ---
 
